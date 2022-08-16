@@ -1,7 +1,7 @@
 # CelebA-Gan
 This code is for google colab notebook.
 
-![image](https://user-images.githubusercontent.com/111392592/185003470-024aa341-6969-42fd-9d87-6c09820c1008.png =250x250)
+![image](https://user-images.githubusercontent.com/111392592/185003470-024aa341-6969-42fd-9d87-6c09820c1008.png | width = 200)
 Figure 1. Picture of Gan system
 
 
