@@ -5,7 +5,7 @@ This code is for google colab notebook.
 
 
 
-https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+
 
 # Reference links
   #Data
@@ -19,4 +19,5 @@ https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
     https://machinelearningmastery.com/how-to-train-a-progressive-growing-gan-in-keras-for-synthesizing-faces/
     
   #Images
+  
     https://developers.google.com/machine-learning/gan/gan_structure
