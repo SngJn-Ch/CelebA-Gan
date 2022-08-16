@@ -1,8 +1,8 @@
 # CelebA-Gan
 This code is for google colab notebook.
 
-![image](https://user-images.githubusercontent.com/111392592/185003470-024aa341-6969-42fd-9d87-6c09820c1008.png)
-Figure 1. Picture of Gan system
+<img src="https://user-images.githubusercontent.com/111392592/185003470-024aa341-6969-42fd-9d87-6c09820c1008.png" width = "150" height="280">
+
 
 
 https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
