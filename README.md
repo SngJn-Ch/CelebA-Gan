@@ -1,7 +1,7 @@
 # CelebA-Gan
 This code is for google colab notebook.
 
-<img src="https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg" width = "400" height="280">
+<img src="https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg" width = "600" height="400">
 
 
 
