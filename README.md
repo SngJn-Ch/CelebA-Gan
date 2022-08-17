@@ -1,7 +1,18 @@
 # CelebA-Gan
 This code is for google colab notebook.
 
-<img src="https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg" width = "600" height="400">
+  # How can works
+  
+  <img src="https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg" width = "600" height="400">
+  
+  1. Latent space (array of random values) into Generator
+  2. Generator makes fake images
+  3. label fake images as 0 and real images as 1
+  4. Goal of generator = deceive discriminator by making better fake images that looks like real(i.e. discriminator output for fake image = 1)
+     Goal of discriminator = discriminate all images correctly
+     
+    
+  
 
 
 # Check-point link
