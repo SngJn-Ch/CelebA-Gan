@@ -1,6 +1,10 @@
 # CelebA-Gan
 This code is for google colab notebook.
 
+
+# what is GAN?
+  GAN stands for Generative Adversial Network
+
   # How GAN works
   
   <img src="https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg" width = "600" height="400">
