@@ -9,6 +9,7 @@ This code is for google colab notebook.
   2. Generator makes fake images
   3. label fake images as 0 and real images as 1
   4. Goal of generator = deceive discriminator by making better fake images that looks like real(i.e. discriminator output for fake image = 1)
+  
      Goal of discriminator = discriminate all images correctly
      
     
