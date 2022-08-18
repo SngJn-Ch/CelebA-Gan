@@ -3,7 +3,8 @@ This code is for google colab notebook.
 
 
 # what is GAN?
-  GAN stands for Generative Adversial Network
+
+  GAN stands for Generative Adversarial Network. GAN is a deep neural network that consists of two neural networks, the generator network, and the discriminator network. The generator network is trained to produce fake images and the discriminator is trained to distinguish between fake images and real images. They interact with each other so that the generator can produce real-like fake images and the discriminator can distinguish whether the image is fake or real.
 
   # How GAN works
   
